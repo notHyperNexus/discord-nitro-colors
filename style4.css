@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    background: linear-gradient(320deg, #6788d3,#810f8f,#3817b1  );
+    background-attachment: fixed;
+}
+.navbar {
+    padding: 9px;
+    border: 2px solid white;
+    border-radius: 16px;
+    display: flex;
+    margin: 0px;
+}
+
+button {
+    opacity: 0.6;
+    background: linear-gradient(320deg, #bbda95, #666);
+    border: 3px solid pink;
+    padding: 10px;
+    border-radius: 79px;
+}
+a {
+    color: rgb(255, 255, 255);
+}
